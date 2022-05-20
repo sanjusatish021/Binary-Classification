@@ -28,9 +28,9 @@ Binary classification is a form of classification — the process of predicting 
 
 Program to implement binary classification.
 
-Developed by: CHIRANJEEVI A
+Developed by: SANJU S
 
-Register Number: 212219040022
+Register Number: 212219040137
 
 */
 
